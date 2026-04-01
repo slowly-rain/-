@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\snake.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\snake.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/snake.cpp",
+  "output": "CMakeFiles/snake.dir/src/snake.cpp.obj"
+}
+]

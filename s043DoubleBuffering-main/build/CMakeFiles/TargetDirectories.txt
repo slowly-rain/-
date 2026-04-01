@@ -1,0 +1,6 @@
+D:/VS Code/s043DoubleBuffering-main/build/CMakeFiles/snake.dir
+D:/VS Code/s043DoubleBuffering-main/build/CMakeFiles/package.dir
+D:/VS Code/s043DoubleBuffering-main/build/CMakeFiles/package_source.dir
+D:/VS Code/s043DoubleBuffering-main/build/CMakeFiles/test.dir
+D:/VS Code/s043DoubleBuffering-main/build/CMakeFiles/edit_cache.dir
+D:/VS Code/s043DoubleBuffering-main/build/CMakeFiles/rebuild_cache.dir
